@@ -1,0 +1,6 @@
+E:\Pranavi\C#\HandsOn\CollegeProgram\obj\Debug\CollegeProgram.csprojAssemblyReference.cache
+E:\Pranavi\C#\HandsOn\CollegeProgram\bin\Debug\CollegeProgram.exe.config
+E:\Pranavi\C#\HandsOn\CollegeProgram\bin\Debug\CollegeProgram.exe
+E:\Pranavi\C#\HandsOn\CollegeProgram\bin\Debug\CollegeProgram.pdb
+E:\Pranavi\C#\HandsOn\CollegeProgram\obj\Debug\CollegeProgram.exe
+E:\Pranavi\C#\HandsOn\CollegeProgram\obj\Debug\CollegeProgram.pdb
