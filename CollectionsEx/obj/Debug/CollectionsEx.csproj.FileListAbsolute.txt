@@ -1,0 +1,6 @@
+E:\Pranavi\C#\HandsOn\CollectionsEx\bin\Debug\CollectionsEx.exe.config
+E:\Pranavi\C#\HandsOn\CollectionsEx\bin\Debug\CollectionsEx.exe
+E:\Pranavi\C#\HandsOn\CollectionsEx\bin\Debug\CollectionsEx.pdb
+E:\Pranavi\C#\HandsOn\CollectionsEx\obj\Debug\CollectionsEx.csprojAssemblyReference.cache
+E:\Pranavi\C#\HandsOn\CollectionsEx\obj\Debug\CollectionsEx.exe
+E:\Pranavi\C#\HandsOn\CollectionsEx\obj\Debug\CollectionsEx.pdb

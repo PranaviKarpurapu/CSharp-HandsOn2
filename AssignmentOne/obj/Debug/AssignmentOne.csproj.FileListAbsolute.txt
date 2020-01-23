@@ -1,0 +1,6 @@
+E:\Pranavi\C#\HandsOn\AssignmentOne\bin\Debug\AssignmentOne.exe.config
+E:\Pranavi\C#\HandsOn\AssignmentOne\bin\Debug\AssignmentOne.exe
+E:\Pranavi\C#\HandsOn\AssignmentOne\bin\Debug\AssignmentOne.pdb
+E:\Pranavi\C#\HandsOn\AssignmentOne\obj\Debug\AssignmentOne.csprojAssemblyReference.cache
+E:\Pranavi\C#\HandsOn\AssignmentOne\obj\Debug\AssignmentOne.exe
+E:\Pranavi\C#\HandsOn\AssignmentOne\obj\Debug\AssignmentOne.pdb
